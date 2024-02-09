@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996209474620",
+    "project_id": "login-4af00",
+    "storage_bucket": "login-4af00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996209474620:android:25d76cffbabac72f36d739",
+        "android_client_info": {
+          "package_name": "com.example.helloohoney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8KRCYK4jHHWBrvZ_YMW-JVI_i5R3PPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
